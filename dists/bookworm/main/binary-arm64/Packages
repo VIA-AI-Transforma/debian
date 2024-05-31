@@ -20,3 +20,81 @@ Description: ALSA Use Case Manager configuration files
  .
  ALSA is the Advanced Linux Sound Architecture.
 
+Package: mcu-start-wdt
+Version: 1.0-2
+Architecture: all
+Maintainer: root <root@69a3a6bd800e>
+Installed-Size: 19
+Priority: extra
+Section: alien
+Filename: pool/main/m/mcu-start-wdt/mcu-start-wdt_1.0-2_all.deb
+Size: 2108
+SHA256: ca5d7604dad2ee1728e0c628e227fb968a3cf9c507ef9b117e6888df4d039e2c
+SHA1: 515c0daf889d06a5d33b897a9fec3bfe73db0837
+MD5sum: 7a15200c49afd86df5c5c145f9405cac
+Description: Converted tgz package
+ Converted tgz package
+ .
+ (Converted from a tgz package by alien version 8.95.)
+
+Package: mcu-utils
+Version: 1.0-2
+Architecture: all
+Maintainer: root <root@69a3a6bd800e>
+Installed-Size: 47
+Priority: extra
+Section: alien
+Filename: pool/main/m/mcu-utils/mcu-utils_1.0-2_all.deb
+Size: 7896
+SHA256: f73ea9ed06a1b577e0c80ad8a00020b7cf932c27eb1e2a16a181c8a19fd4fc40
+SHA1: 36e164b5a819d07483a289f1b639f936abd4ee77
+MD5sum: ef58e949de5da56a619b4821002667b0
+Description: Converted tgz package
+ Converted tgz package
+ .
+ (Converted from a tgz package by alien version 8.95.)
+
+Package: optimus
+Version: 0.1.0-2.1
+Architecture: arm64
+Depends: libcurl4, libjsoncpp25, libpaho-mqtt1.3, libxml2
+Maintainer: DerekLi <DerekLi@viatech.com.cn>
+Priority: optional
+Section: misc
+Filename: pool/main/o/optimus/optimus_0.1.0-2.1_arm64.deb
+Size: 262288
+SHA256: 9509228b86aa6a339751d60491adf9e485a8fbaabd3539d76d6c3b7ffb00fa28
+SHA1: 209299c670d5305180e25184fe007575463200c6
+MD5sum: 1be1f3f00a6caa8bf9500e0085ffcfe5
+Description: backend service for Transforma Optimus
+
+Package: optimusmodelmark
+Architecture: arm64
+Priority: optional
+Section: utils
+Filename: pool/main/o/optimusmodelmark/optimusmodelmark_0.1.3_arm64.deb
+Size: 6318732
+SHA256: 6ccdd5fc57567d184b4b94158ad10799a1bdf8d466958b13e9f02be0371fbf71
+SHA1: b115d0a300ad70e86280ed2669be28fc0b072a3d
+MD5sum: 6687276d87499588df96b460e53f2451
+Description: Optimus Model Benchmark Tool
+Maintainer: VIA Technologies, Inc.
+Version: 0.1.3
+Installed-Size: 14989
+
+Package: transforma-backgrounds
+Version: 0.1-1
+Architecture: all
+Maintainer: Transforma <tfma@via.com.tw>
+Installed-Size: 4922
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Filename: pool/main/t/transforma-backgrounds/transforma-backgrounds_0.1-1_all.deb
+Size: 4227316
+SHA256: b5d9e283f9a24557bb336b4c86ee4daf93310b0d16fbd07ec97cb9e6c19a2ba3
+SHA1: fca87548813e8b98b4675fc7622268e12f08e9ed
+MD5sum: 2d8ee77ccdab8ef5b674407289aff8c6
+Description: Set of backgrounds packaged for Transforma
+ This is a collection of desktop wallpapers created for Transforma.
+

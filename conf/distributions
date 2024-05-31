@@ -1,0 +1,7 @@
+Origin: Transforma
+Label: Transforma
+Codename: bookworm
+Architectures: source arm64 amd64
+Components: main
+Description: Apt repository for project Transforma
+SignWith: 337DE262665A16FDB5A479EAD42E8A99C8434117

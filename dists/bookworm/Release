@@ -1,36 +1,36 @@
 Origin: Transforma
 Label: Transforma
 Codename: bookworm
-Date: Wed, 22 May 2024 10:32:30 UTC
+Date: Thu, 30 May 2024 08:18:13 UTC
 Architectures: arm64 amd64
 Components: main
 Description: Apt repository for project Transforma
 MD5Sum:
- 063f594203509413084280848dd076ce 799 main/binary-arm64/Packages
- e5ca3e98fbecee69b944e107259455cf 529 main/binary-arm64/Packages.gz
+ ccf553cd6f41e828ae3320fe7873c4d2 3260 main/binary-arm64/Packages
+ 89e2088f3992440b1d499560e1c472a4 1457 main/binary-arm64/Packages.gz
  e6c72d908eeb5a10970b5ef7d272939e 124 main/binary-arm64/Release
- 063f594203509413084280848dd076ce 799 main/binary-amd64/Packages
- e5ca3e98fbecee69b944e107259455cf 529 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  893af43ab701069442fc4f80122131c5 124 main/binary-amd64/Release
  d6e1800d670aac399029b3a5a74021cf 1734 main/source/Sources
  d7ff20f9e5e5bff3a2e97ac4b02bca65 859 main/source/Sources.gz
  80f367346fb254a7052a230b1f6f009d 125 main/source/Release
 SHA1:
- 3e8843d4bcc3ff09057512ea40014cb937288068 799 main/binary-arm64/Packages
- 6059bec9028f5de377327b5c801d50f40e9dcff7 529 main/binary-arm64/Packages.gz
+ 2f28cac3a2fa2ab2a081f587cc7d24095d54d535 3260 main/binary-arm64/Packages
+ 57b30bbfe40104913a1a55638ae2211cedfcd308 1457 main/binary-arm64/Packages.gz
  b1a600497ac9b447513d602c70a44f8418b6eb30 124 main/binary-arm64/Release
- 3e8843d4bcc3ff09057512ea40014cb937288068 799 main/binary-amd64/Packages
- 6059bec9028f5de377327b5c801d50f40e9dcff7 529 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  e97cefed23c00d2994c6545f629cd5ac968c7236 124 main/binary-amd64/Release
  a8df69109ee64d744fc5891b49ace1cc395578ad 1734 main/source/Sources
  95116cfabaf39b18ab4c1338937f641748849b0c 859 main/source/Sources.gz
  c4fde7d51743e24436bd61724ca00ba4ba7f2e6f 125 main/source/Release
 SHA256:
- c4207e7517b353a22fe452acafa492273aa5958ff685176dd7ec2f2ddd4c1884 799 main/binary-arm64/Packages
- c24037dc7b27d20f526eea71f0b6f1d73a047327bd2defca2c0377354c6f9794 529 main/binary-arm64/Packages.gz
+ 5e448a12e4989ded043fa640b3698360fe92636ef7e6a7926d8334ec6b03f3b4 3260 main/binary-arm64/Packages
+ 12909b71b3f6f8010f42171c11539a2deea28ca791abd7da70d05e288fd514d7 1457 main/binary-arm64/Packages.gz
  c62498d84efdf407402384973ffdc92081f43c8fb87a314205b6e6e223286f0a 124 main/binary-arm64/Release
- c4207e7517b353a22fe452acafa492273aa5958ff685176dd7ec2f2ddd4c1884 799 main/binary-amd64/Packages
- c24037dc7b27d20f526eea71f0b6f1d73a047327bd2defca2c0377354c6f9794 529 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  758c2afeb6f0eea9e65169c0e216622ea52f6a051899f4e84e28fb3e9a30c056 124 main/binary-amd64/Release
  ab156c3ff8b85ee8c91082d682bfc6a84adc8ae1e54df943c2f00663ac7d64c5 1734 main/source/Sources
  b7162036984d4e24695acabfcb849d42fd797862924e035c54ef2033e679b338 859 main/source/Sources.gz
