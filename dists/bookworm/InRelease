@@ -4,13 +4,13 @@ Hash: SHA512
 Origin: Transforma
 Label: Transforma
 Codename: bookworm
-Date: Thu, 30 May 2024 08:18:13 UTC
+Date: Fri, 05 Jul 2024 08:53:11 UTC
 Architectures: arm64 amd64
 Components: main
 Description: Apt repository for project Transforma
 MD5Sum:
- ccf553cd6f41e828ae3320fe7873c4d2 3260 main/binary-arm64/Packages
- 89e2088f3992440b1d499560e1c472a4 1457 main/binary-arm64/Packages.gz
+ cb34278c36c2905e3ab2b2fb8a4b1d02 4169 main/binary-arm64/Packages
+ b65ca7d208311518914e2718724a8862 1780 main/binary-arm64/Packages.gz
  e6c72d908eeb5a10970b5ef7d272939e 124 main/binary-arm64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  d7ff20f9e5e5bff3a2e97ac4b02bca65 859 main/source/Sources.gz
  80f367346fb254a7052a230b1f6f009d 125 main/source/Release
 SHA1:
- 2f28cac3a2fa2ab2a081f587cc7d24095d54d535 3260 main/binary-arm64/Packages
- 57b30bbfe40104913a1a55638ae2211cedfcd308 1457 main/binary-arm64/Packages.gz
+ 96597ea259e95f25ffd13711915de6dc864159c3 4169 main/binary-arm64/Packages
+ 2ae07a79d23b3ab48d0ec22da74ee417c4076adc 1780 main/binary-arm64/Packages.gz
  b1a600497ac9b447513d602c70a44f8418b6eb30 124 main/binary-arm64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  95116cfabaf39b18ab4c1338937f641748849b0c 859 main/source/Sources.gz
  c4fde7d51743e24436bd61724ca00ba4ba7f2e6f 125 main/source/Release
 SHA256:
- 5e448a12e4989ded043fa640b3698360fe92636ef7e6a7926d8334ec6b03f3b4 3260 main/binary-arm64/Packages
- 12909b71b3f6f8010f42171c11539a2deea28ca791abd7da70d05e288fd514d7 1457 main/binary-arm64/Packages.gz
+ 33f061335bb8690dded758e42144fb008a50ee50867b0872d2d88e1dc0496590 4169 main/binary-arm64/Packages
+ 5fc6cbab1a8ae921f29130796ab562be9e04056586b45b06a237786fb93b943a 1780 main/binary-arm64/Packages.gz
  c62498d84efdf407402384973ffdc92081f43c8fb87a314205b6e6e223286f0a 124 main/binary-arm64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
@@ -40,17 +40,17 @@ SHA256:
  cb13de27169d4ec19adbfd30449271c42f709384e6396b3e0e68a1fdef19a9c8 125 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE596UDhbVcyWIZt2/FApunipAYRQFAmZYNkwACgkQFApunipA
-YRTqjw//RVLleSJnULnYR0yQfg9uzP7GDT1LK0MpiDrB7xH17r3PUTZ/1X+w1bum
-AfDEwFWm9XHiHdio1dNMReqxii4/f3nrLDuCl9p3e3zqheFEMjdMzqZcOFQ54f7/
-Rm+IcZ0JOX0UpYBQYxUUlMBiBe8G4qWZfMU1Wl2pkGyxRZVz1eybbmB6vYNEvQMt
-zETTKG+uDmIeQE2iV9BOeqbDsx3Qpqxc+nCa+fewynn3jrqJs80k2mgb/YmH0xYr
-c3cYcJ0MTbsxMc3xBe4S/lsoQlv0oq80oSF1kn7i4GSrjvmf0qQHCPB31FVU8jo7
-RSXxdM1oAnuEQMGlPfTESfLdG7n9FGjaVXS6puXUD4pYKCXDBB9o1xHyk9QA3+d0
-vzxfOwKGACEN/+ek8VaF2duIdE3bTmx5P/nMDzf7AOwQ/yUvP0vLcR4Q37lIXt9v
-MvFvWWPItf1SqJXxq96o8QKqpGms2uuM5ocKuZmaj/gUf4yFQT6iIbXRbVa4NZJP
-L9rWpkhf8Nht0hjXzWGsBweu+PcEbZyys9nAGBWxbSapAjbvVbZhDoCt4tyYXb4C
-KMEeZw+BznlKim5X2jwe7A3nUnQ4uOl8Zx0k1X5qZmnYxu0cOFL+zXa6ZgX7rY0J
-rIQPDVnRbYuYN43+Nk5JFdGy6Jxoial3virOGuUx9lqsomQVG+0=
-=5RdT
+iQIzBAEBCgAdFiEE596UDhbVcyWIZt2/FApunipAYRQFAmaHtHgACgkQFApunipA
+YRSJ1w/+K9K3eE2Lx+68iOe9JMiqtNbULKU7Fu3rPLHaRn52K7i1Yr8VlJkRDQaW
+HtTcfTelEcwlXTvVpwgQXPOQ56UTPrTfBtyLD6sAmfS7uGNal4ZtqJjgPg/Es1/g
+Qq43gQxlwkqjvQ9vY7FnYydU7Dcpe2bJXBdOWGKAGwXLuT66RYbGZeqclKHFFz3R
+8YwEmSweBNDn8l6tDC02L56krVKzZupF43xu/ITY69OsIYvPfN/80H8hRlWrk92D
+5XaRw1Gi7DRfmPfnJvo8VdVucfnqYQeA5wdWYZDftdqudwEUb2mTkT3Oocw/t0CA
+fXbRzkHtFh06WWc/OnNmnoap9Q5jCrVuvFUuLZVz4B2q6Myz1m/Bh3hxDPRDTmLv
+oyC5et0d0kPLDd2XLz1sdoJCMvV1T9kLJ5nn/nz2U8LY8P3/gRgZjOtlt72uZhY7
+a9DxwFexYJug+pooofoeR60+aUrB//Blyq/+Jwgu+B/S86IJNij8Q20MS1jxTCf2
+HAj1ohkPGyhkk/fwySZtgj6rYuh30/Wtt80wkZEkM/CF1J9e4YDo/YQFMlIJznGN
+E3MnVg8acbwsG/IUSgLb4eSkddqImxC//rNWtTb6FsFuSdl5wxM4elXpzGoPA8Lj
+qHr02AYuhlaMhQvanOI/ZuHEIYM7hFlZYPbUAy2kJ5MDFzj8uuU=
+=FiaU
 -----END PGP SIGNATURE-----
