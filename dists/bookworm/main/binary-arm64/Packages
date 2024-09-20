@@ -21,18 +21,18 @@ Description: ALSA Use Case Manager configuration files
  ALSA is the Advanced Linux Sound Architecture.
 
 Package: linux-image-mtk
-Version: 0~20240920-1+tfma
+Version: 0~20240920-2+tfma
 Architecture: arm64
 Maintainer: VIA Support <transforma-support@viatransforma.ai>
 Installed-Size: 115052544
 Depends:
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-image-mtk/linux-image-mtk_0~20240920-1+tfma_arm64.deb
-Size: 52101124
-SHA256: c9f73225824d2dd96908ff3988106b0ca095fbb7043b07e6caaf76d4397197de
-SHA1: ff0e30ee783c7cfb4b5883c6119c28a0cef72ef8
-MD5sum: 58829246fe9a1a8b0b77f113098088ab
+Filename: pool/main/l/linux-image-mtk/linux-image-mtk_0~20240920-2+tfma_arm64.deb
+Size: 32847444
+SHA256: a3a5d39c41b35fa62356e66ea776f6f2cc3853df1a171cb83ff23ed0e01eed20
+SHA1: 59d0f6fa55ea23a6fc672350ab78d1115ac7f4c9
+MD5sum: a3d31998ee8ac58c8be3a34713dc464e
 Description: Yocto kernel for VIA evaluation board
  This is the Yocto kernel for VIA evaluation board
 
